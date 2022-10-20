@@ -41,13 +41,13 @@ require (
 	github.com/tidwall/transform v0.0.0-20201103190739-32f242e2dbde
 	github.com/valyala/fasthttp v1.40.0
 	go.opencensus.io v0.23.0
-	go.opentelemetry.io/otel v1.11.0
+	go.opentelemetry.io/otel v1.11.1
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.11.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.11.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.11.0
 	go.opentelemetry.io/otel/exporters/zipkin v1.11.0
 	go.opentelemetry.io/otel/sdk v1.11.0
-	go.opentelemetry.io/otel/trace v1.11.0
+	go.opentelemetry.io/otel/trace v1.11.1
 	go.uber.org/atomic v1.10.0
 	go.uber.org/automaxprocs v1.5.1
 	go.uber.org/ratelimit v0.2.0
